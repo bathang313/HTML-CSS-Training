@@ -1,0 +1,25 @@
+{
+  "name": "html-css-training",
+  "version": "1.0.0",
+  "description": "HTML CSS TRAINING PRACTICE TWO",
+  "main": "index.js",
+  "devDependencies": {
+    "@commitlint/cli": "^15.0.0",
+    "@commitlint/config-conventional": "^15.0.0",
+    "husky": "^7.0.4",
+    "parcel": "^2.0.1"
+  },
+  "scripts": {
+    "start": "parcel src/index.html",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.asoft-python.com:g-thangho/html-css-training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "materialize-css": "^1.0.0-rc.2"
+  }
+}
