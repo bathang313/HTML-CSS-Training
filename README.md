@@ -48,7 +48,7 @@ Desktop responsive:
 
 
 ## Checkout real app works following
-- Download source from repository: `git@gitlab.asoft-python.com:g-thangho/html-css-training.git`
+- Download source from repository
 
 - Run: cd html-css-training
 
